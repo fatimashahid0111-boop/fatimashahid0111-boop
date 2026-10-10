@@ -20,4 +20,4 @@
 
 📫 **Connect with Me**
 * [LinkedIn](www.linkedin.com/in/fatima-shahid-85a7b7362)
-* * [Email](mailto:fatimashahid0111@gmail.com)
+* [Email](mailto:fatimashahid0111@gmail.com)
