@@ -2,13 +2,15 @@
 
 🙋‍♀️ **About Me**
 * 🎓 Physics graduate from the Pakistan Institute of Engineering and Applied Sciences (PIEAS).
-* 🔭 Currently focused on quantum optics, biophotonics, and computational physics.
-* 🎓 Preparing for international graduate programs (Master's/PhD) in laser physics, optics and machine learning applications.
+* 🔭 Focused on quantum optics, biophotonics, and computational physics.
+* 💼 Currently working as a data analyst and coordinator in textile industry.
+* 🎓 Preparing for graduate programs (Master's/PhD) in laser physics, optics and machine learning applications.
 * 🧶 When I am not in the lab or coding, I write poetry and read books.
 
 🛠️ **Skills**
-* **Programming Languages:** Python | C++ | LaTeX | C 
-* **Machine Learning:** Scikit-Learn | TensorFlow | LSTM | XGBoost | SVM 
+* **Programming Languages:** Python | C++ | C | SQL | LaTeX 
+* **Machine Learning:** Scikit-Learn | TensorFlow | LSTM | XGBoost | SVM
+* **Microsoft Suite:** Advanced Excel | Power BI | Word | Visio | PowerPoint
 * **Hardware & Lab:** Thorlabs Kinesis Automation | Optical Tweezers (BFPI) | Atomic Coherence
 
 🌟 **Favorite Repos**
@@ -18,3 +20,4 @@
 
 📫 **Connect with Me**
 * [LinkedIn](www.linkedin.com/in/fatima-shahid-85a7b7362)
+* * [Email](mailto:fatimashahid0111@gmail.com)
