@@ -4,7 +4,7 @@
 * 🎓 Physics graduate from the Pakistan Institute of Engineering and Applied Sciences (PIEAS).
 * 🔭 Focused on quantum optics, biophotonics, and computational physics.
 * 💼 Currently working as a data analyst and coordinator in textile industry.
-* 🎓 Preparing for graduate programs (Master's/PhD) in laser physics, optics and machine learning applications.
+* 🎓 Preparing for graduate programs (Master's/PhD) in laser physics, optics and quantum sensing.
 * 🧶 When I am not in the lab or coding, I write poetry and read books.
 
 🛠️ **Skills**
